@@ -1,4 +1,4 @@
-#Map Reduce in Go
+# Map Reduce in Go
  #### Command Line Args
 * directory of csvs
 * minimum population
