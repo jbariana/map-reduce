@@ -1,5 +1,6 @@
 ﻿# Command Line Args
-go run pop.go directory minimum_population
+Takes in 2: 
+* directory of csvs
+* minimum population
 
-### Example usage
-go run pop.go us-cities 1000000
+### Example usage - go run pop.go us-cities 1000000
