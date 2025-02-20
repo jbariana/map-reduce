@@ -1,4 +1,4 @@
-﻿# Command Line Args
+﻿### Command Line Args
 Takes in 2: 
 * directory of csvs
 * minimum population
